@@ -1,5 +1,6 @@
 ## Привет, всем! 👋
 - 🌱 Сейчас я открыта для вакансий Go-разработчика. Чтобы со мной связаться, пишите в ТГ @dekatei
+  
 - 🛠 Стек: Golang,
 SQL,
 HTTP,
@@ -9,7 +10,8 @@ JSON, CI/CD,
 Docker,
 Linux,
 Unit Testing
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekatei&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dekatei&show_icons=true&theme=radical&card_width=400)
 
 
 
